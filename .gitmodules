@@ -1,3 +1,6 @@
 [submodule "Region/Hub and Transit Gateway"]
 	path = Region/Hub and Transit Gateway
 	url = https://github.com/e-and-cs-terraform-components/aws-hub-and-transitgateway.git
+[submodule "Region/Spoke"]
+	path = Region/Spoke
+	url = https://github.com/e-and-cs-terraform-components/aws-spoke.git
