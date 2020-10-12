@@ -4,3 +4,6 @@
 [submodule "Region/Spoke"]
 	path = Region/Spoke
 	url = https://github.com/e-and-cs-terraform-components/aws-spoke.git
+[submodule "Global/VPC Flow Logs"]
+	path = Global/VPC Flow Logs
+	url = https://github.com/e-and-cs-terraform-components/aws-global-vpc-flow-logs.git
